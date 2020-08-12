@@ -31,6 +31,7 @@
 
 - [数据库系统原理](https://github.com/lemon1850/study/blob/master/notes/数据库系统原理.md)
 - [SQL](https://github.com/lemon1850/study/blob/master/db/SQL.md)
+- [cache](https://github.com/lemon1850/study/blob/master/db/cache.md)
 - [Leetcode-Database 题解](https://github.com/lemon1850/study/blob/master/notes/Leetcode-Database%20题解.md)
 - [MySQL](https://github.com/lemon1850/study/blob/master/notes/MySQL.md)
 - [Redis](https://github.com/lemon1850/study/blob/master/notes/Redis.md)
